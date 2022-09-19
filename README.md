@@ -1,5 +1,7 @@
 # 🔴Python-Complete-Roadmap to Expert
 
+🍿[[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/channel/UC2BUdJZ7W4lE2rubgYXDQvw)]
+
 <table>
   <tbody>
     <tr>
@@ -293,3 +295,7 @@
   </tbody>
 </table>
 
+----
+# Connect With me 
+🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
+🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)

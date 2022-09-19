@@ -1,6 +1,6 @@
 # 🔴Python-Complete-Roadmap to Expert
 
-🍿[[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/channel/UC2BUdJZ7W4lE2rubgYXDQvw)]
+[![Watch the video](https://github.com/MvMukesh/Python-Complete-Roadmap-to-Expert/blob/main/img/python-playlist.png)](https://www.youtube.com/channel/UC2BUdJZ7W4lE2rubgYXDQvw)]
 
 <table>
   <tbody>
